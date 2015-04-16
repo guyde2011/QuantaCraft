@@ -1,0 +1,17 @@
+
+tc.aspect.Reflexio=Reflection
+tc.aspect.Refractionis=Refraction
+tc.aspect.Dissensio=Division
+tc.aspect.help.Reflexio=the order of light
+tc.aspect.help.Refractionis=the chaos of light
+tc.aspect.help.Dissensio=the balance of light
+tc.research_category.QUANTATURGY=Quantaturgy
+tc.research_name.Elemental Swap=Elemental Swap
+tc.research_text.Elemental Swap=Light is relative
+tc.research_name.Quanta Of Revealing=True Sight
+tc.research_text.Quanta Of Revealing=Now you have a true sight
+tc.research_name.FocusLight=Light Foci
+tc.research_text.FocusLight=I see the light
+tc.research_name.SuperReflector=Super Reflector
+tc.research_text.SuperReflector=The start of the light revolution
+enchantment.Reflective=Reflective
